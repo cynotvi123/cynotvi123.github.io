@@ -12,5 +12,7 @@ tags:
 
 官方宣传海报
 
-![官方宣传海报](http://http://cynotvi123.github.io\img\tuiguangren.png)
+![官方宣传海报](http://zhanyexinxi.com/img/tuiguangren.jpg)
+![官方宣传海报](img/tuiguangren.jpg)
+
 
