@@ -13,6 +13,6 @@ tags:
 官方宣传海报
 
 ![官方宣传海报](http://zhanyexinxi.com/img/tuiguangren.jpg)
-![官方宣传海报](img/tuiguangren.jpg)
+![官方宣传海报](../../../img/tuiguangren.jpg)
 
 
